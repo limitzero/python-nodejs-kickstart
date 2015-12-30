@@ -21,13 +21,13 @@ To use nodemon as the file watcher, open the package.json file and change the "t
 ###__Resources__
 Below are all of the installed packages needed for the kick-starter along with the command line for installation.
  
- [PyTest (unit testing framework)](http://pytest.org/latest/)
+[PyTest (unit testing framework)](http://pytest.org/latest/)
 >pip install pytest
 
 [Mamba (BDD tool for Python testing)](https://github.com/nestorsalceda/mamba)
 > pip install mamba
 
-[Requets (HTTP manager for Python)](http://docs.python-requests.org/en/latest/)
+[Requests (HTTP manager for Python)](http://docs.python-requests.org/en/latest/)
 > pip install requests
 
 [PyYAML (YAML manager for Python, represent JSON as a named array)](http://pyyaml.org/wiki/PyYAML)
